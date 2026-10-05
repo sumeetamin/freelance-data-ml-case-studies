@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+*.pkl
+*.joblib
+*.zip
+client-data/
